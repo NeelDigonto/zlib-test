@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "zutil.h": "c",
+    "zbuild.h": "c"
+  }
+}
